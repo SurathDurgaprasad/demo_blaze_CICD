@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="InstallApplicationInMobile">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-08-08 14:59:08 +0530</FirstRun>
+  <LastRun>2023-08-08 14:59:08 +0530</LastRun>
+  <TotalTimeOnSuccess>104.036000</TotalTimeOnSuccess>
+ </script>
+</statistics>
