@@ -1,1 +1,5 @@
-﻿{EPVersionNumber = 202307120950; Schedules = (); ScriptMetaData = {}; SuiteEncodedTextKey = "bD/J1.&u'AMD2\\Le"; helpedSuitesInfo = (); helperSuitesInfo = (); }
+﻿{EPVersionNumber = 202307120950; Schedules = (); ScriptMetaData = {}; SuiteEncodedTextKey = "bD/J1.&u'AMD2\\Le"; SuiteVariables = "{
+ screenShotCount:2,
+ screenShotFolder:@\"C:/Users/DurgaPrasad S/OneDrive - Ideabytes/Documents/EggplantSuites/d\" \\
+                  @\"emo_blaze_CICD/demo_blaze_CICD.suite/AllscreenShots//08-13-23/01-34-PM\"
+}"; helpedSuitesInfo = (); helperSuitesInfo = (); }
